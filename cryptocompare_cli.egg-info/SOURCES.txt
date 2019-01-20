@@ -1,0 +1,7 @@
+README.md
+crypto.py
+cryptocompare_cli.egg-info/PKG-INFO
+cryptocompare_cli.egg-info/SOURCES.txt
+cryptocompare_cli.egg-info/dependency_links.txt
+cryptocompare_cli.egg-info/requires.txt
+cryptocompare_cli.egg-info/top_level.txt

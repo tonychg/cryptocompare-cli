@@ -1,0 +1,17 @@
+Metadata-Version: 1.2
+Name: cryptocompare-cli
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: https://github.com/tonychg/cryptocompare-cli.git
+Author: TonyChG
+Author-email: antoine.chiny@inria.fr
+License: UNKNOWN
+Description: 
+            Usage:   crypto.py
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - In developpment
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: Apache License Version 2.0
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6

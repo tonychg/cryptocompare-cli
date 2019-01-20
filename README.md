@@ -14,3 +14,5 @@ pip install -e .
 ```
 crypto.py
 ```
+
+[![asciicast](https://asciinema.org/a/222589.svg)](https://asciinema.org/a/222589)
